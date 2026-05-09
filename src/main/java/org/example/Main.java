@@ -1,6 +1,5 @@
 package org.example;
 
-import org.example.FactoryPattern.Car;
 import org.example.FactoryPattern.Vehicle;
 import org.example.FactoryPattern.VehicleFactory;
 
